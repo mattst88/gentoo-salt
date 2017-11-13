@@ -1,1 +1,1 @@
-net-fs/samba -gpg client -server
+net-fs/samba -gpg client -server winbind
