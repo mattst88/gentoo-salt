@@ -1,1 +1,1 @@
-app-office/libreoffice pdfimport -bluetooth gstreamer
+app-office/libreoffice pdfimport gstreamer
