@@ -1,0 +1,4 @@
+games-util/steam-games-meta s3tc steamgames_source_engines
+games-util/steam-client-meta streaming steamfonts
+media-libs/libsdl2 -wayland
+x11-libs/gtk+:2 cups

@@ -1,0 +1,7 @@
+=games-util/steam-client-meta-0-r20160828 ~amd64
+=games-util/steam-launcher-1.0.0.54-r1 ~amd64
+=games-util/steam-meta-0-r20160817 ~amd64
+=sys-libs/libudev-compat-186 ~amd64
+=games-util/esteam-0.20161113 ~amd64
+=media-libs/glew-1.6.0-r100
+=media-fonts/steamfonts-1

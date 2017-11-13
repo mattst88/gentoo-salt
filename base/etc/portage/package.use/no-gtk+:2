@@ -1,0 +1,3 @@
+net-dialup/ppp -gtk
+media-sound/audacious -gtk
+media-plugins/audacious-plugins -gtk
