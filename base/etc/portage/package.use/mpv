@@ -1,2 +1,3 @@
 media-video/ffmpeg openssl
 media-video/mpv drm
+net-misc/youtube-dl offensive
