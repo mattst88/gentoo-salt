@@ -7,3 +7,6 @@ braswell:
 macbook:
   'macbook.mattst88.com':
     - macbook
+skylake:
+  'skl*.mattst88.com':
+    - skylake
