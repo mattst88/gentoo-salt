@@ -1,4 +1,5 @@
 media-libs/libvpx postproc svc
+media-libs/libwebp gif
 media-video/ffmpeg opus openssl
 sys-libs/zlib minizip
 www-client/chromium kerberos jumbo-build
