@@ -1,4 +1,5 @@
-/etc/portage/savedconfig/sys-kernel/linux-firmware:
-  file.managed:
-    - source: salt://etc/portage/savedconfig/sys-kernel/linux-firmware
-    - mode: 644
+/etc/portage/savedconfig/sys-kernel:
+  file.recurse:
+    - source: salt://etc/portage/savedconfig/sys-kernel
+    - include_empty: True
+    - clean: True
