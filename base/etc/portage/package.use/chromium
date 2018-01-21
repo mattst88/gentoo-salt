@@ -1,4 +1,4 @@
 media-libs/libvpx postproc svc
 media-video/ffmpeg opus openssl
 sys-libs/zlib minizip
-www-client/chromium kerberos
+www-client/chromium kerberos jumbo-build
