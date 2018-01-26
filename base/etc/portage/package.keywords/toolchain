@@ -1,5 +1,4 @@
-=sys-devel/gcc-6.4.0
-=sys-devel/gcc-7.2.0
+=sys-devel/gcc-7.3.0 **
 
 =sys-libs/glibc-2.25-r9
 
