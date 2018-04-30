@@ -130,6 +130,7 @@ virtual/opengl abi_x86_32
 virtual/pam abi_x86_32
 virtual/pkgconfig abi_x86_32
 virtual/udev abi_x86_32
+x11-base/xcb-proto abi_x86_32
 x11-libs/cairo abi_x86_32
 x11-libs/gdk-pixbuf abi_x86_32
 x11-libs/gtk+:2 cups
@@ -179,7 +180,6 @@ x11-proto/recordproto abi_x86_32
 x11-proto/renderproto abi_x86_32
 x11-proto/scrnsaverproto abi_x86_32
 x11-proto/videoproto abi_x86_32
-x11-proto/xcb-proto abi_x86_32
 x11-proto/xextproto abi_x86_32
 x11-proto/xf86bigfontproto abi_x86_32
 x11-proto/xf86driproto abi_x86_32
