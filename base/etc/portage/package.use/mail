@@ -1,4 +1,3 @@
-mail-mta/msmtp -gnome-keyring
 mail-client/mutt hcache berkdb imap -lmdb mbox nntp notmuch sidebar slang smime smtp
 net-mail/notmuch mutt
 dev-libs/gmime smime
