@@ -1,1 +1,1 @@
-sys-apps/systemd -kdbus gnuefi
+sys-apps/systemd gnuefi
