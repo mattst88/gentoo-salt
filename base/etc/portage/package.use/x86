@@ -87,6 +87,7 @@ net-libs/gnutls abi_x86_32
 net-libs/libasyncns abi_x86_32
 net-libs/libndp abi_x86_32
 net-libs/libnsl abi_x86_32
+net-libs/libtirpc abi_x86_32
 net-libs/socket_wrapper abi_x86_32
 net-misc/curl abi_x86_32
 net-misc/networkmanager abi_x86_32
