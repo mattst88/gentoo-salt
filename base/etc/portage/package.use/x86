@@ -42,6 +42,7 @@ dev-libs/openssl abi_x86_32
 dev-libs/popt abi_x86_32
 dev-libs/wayland abi_x86_32
 dev-python/subunit abi_x86_32
+dev-util/cmocka abi_x86_32
 dev-util/cppunit abi_x86_32
 dev-util/pkgconfig abi_x86_32
 gnome-base/gconf abi_x86_32
