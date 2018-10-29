@@ -1,3 +1,2 @@
-=dev-libs/nspr-4.19
-=dev-libs/nss-3.38
-=www-client/firefox-62.0.3
+=dev-libs/nss-3.40
+=www-client/firefox-63.0
