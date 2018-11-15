@@ -1,1 +1,1 @@
-net-misc/networkmanager modemmanager
+net-misc/networkmanager connection-sharing modemmanager
