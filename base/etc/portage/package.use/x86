@@ -114,12 +114,12 @@ sys-libs/libcap abi_x86_32
 sys-libs/libudev-compat abi_x86_32
 sys-libs/ncurses abi_x86_32
 sys-libs/nss_wrapper abi_x86_32
-sys-libs/ntdb python abi_x86_32
+sys-libs/ntdb abi_x86_32
 sys-libs/pam abi_x86_32
 sys-libs/readline abi_x86_32
 sys-libs/talloc abi_x86_32
-sys-libs/tdb python abi_x86_32
-sys-libs/tevent python abi_x86_32
+sys-libs/tdb abi_x86_32
+sys-libs/tevent abi_x86_32
 sys-libs/uid_wrapper abi_x86_32
 sys-libs/zlib abi_x86_32
 virtual/acl abi_x86_32
