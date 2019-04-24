@@ -1,1 +1,1 @@
-dev-vcs/git subversion -webdav
+dev-vcs/git subversion -python
