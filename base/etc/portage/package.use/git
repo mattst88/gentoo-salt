@@ -1,1 +1,1 @@
-dev-vcs/git subversion -python
+dev-vcs/git subversion -python -python_targets_python2_7
