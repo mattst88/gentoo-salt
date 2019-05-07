@@ -1,0 +1,4 @@
+=dev-lang/rust-1.33.0
+=dev-util/cbindgen-0.8.2
+=virtual/cargo-1.33.0
+=virtual/rust-1.33.0
