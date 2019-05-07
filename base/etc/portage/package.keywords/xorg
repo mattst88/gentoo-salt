@@ -1,4 +1,2 @@
 x11-libs/libdrm
-=media-libs/mesa-17.2.6
-dev-libs/wayland-protocols
 media-libs/vulkan-loader
