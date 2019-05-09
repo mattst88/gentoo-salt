@@ -1,2 +1,3 @@
-dev-util/apitrace system-snappy abi_x86_32
+app-arch/brotli abi_x86_32
 app-arch/snappy abi_x86_32
+dev-util/apitrace system-snappy abi_x86_32
