@@ -1,0 +1,1 @@
+cross-hppa64-unknown-linux-gnu/gcc -boundschecking -cxx -d -fortran -gcj -go -gtk -jit -libffi -mpx -mudflap -multilib -objc -objc++ -objc-gc -openmp -sanitize -selinux -ssp -vtv
