@@ -1,0 +1,2 @@
+sys-fs/squashfs-tools lz4 zstd
+app-arch/zstd lz4
