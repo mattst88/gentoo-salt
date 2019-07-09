@@ -1,4 +1,4 @@
-=net-fs/samba-4.10.5
+=net-fs/samba-4.10.6
 =sys-libs/ldb-1.5.4
 =sys-libs/talloc-2.2.0 
 =sys-libs/tdb-1.4.0 
