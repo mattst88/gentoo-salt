@@ -1,7 +1,5 @@
 =dev-libs/nspr-4.21
-=dev-libs/nss-3.44-r2
+=dev-libs/nss-3.44.1
 =dev-util/cbindgen-0.8.7
-=media-libs/dav1d-0.2.1
-=media-libs/libaom-1.0.0-r1
 =media-libs/libvpx-1.7.0
 =www-client/firefox-67.0.4
