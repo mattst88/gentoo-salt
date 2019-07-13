@@ -1,0 +1,2 @@
+cross-armv7a-unknown-linux-gnueabihf/glibc -selinux -multilib
+cross-armv7a-unknown-linux-gnueabihf/gcc -boundschecking -d -fortran -gcj -go -gtk -jit -libffi -mpx -mudflap -multilib -objc -objc++ -objc-gc -sanitize -selinux -ssp -vtv
