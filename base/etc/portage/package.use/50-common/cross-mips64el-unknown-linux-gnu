@@ -1,0 +1,2 @@
+cross-mips64el-unknown-linux-gnu/glibc -selinux -multilib
+cross-mips64el-unknown-linux-gnu/gcc -boundschecking -d -fortran -gcj -go -gtk -jit -libffi -mpx -mudflap -multilib -objc -objc++ -objc-gc -sanitize -selinux -ssp -vtv
