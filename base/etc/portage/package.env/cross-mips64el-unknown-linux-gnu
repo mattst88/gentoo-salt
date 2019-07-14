@@ -1,0 +1,5 @@
+cross-mips64el-unknown-linux-gnu/binutils cross-mips64el-unknown-linux-gnu/binutils.conf
+cross-mips64el-unknown-linux-gnu/gcc cross-mips64el-unknown-linux-gnu/gcc.conf
+cross-mips64el-unknown-linux-gnu/linux-headers cross-mips64el-unknown-linux-gnu/linux-headers.conf
+cross-mips64el-unknown-linux-gnu/glibc cross-mips64el-unknown-linux-gnu/glibc.conf
+cross-mips64el-unknown-linux-gnu/gdb cross-mips64el-unknown-linux-gnu/gdb.conf
