@@ -1,2 +1,2 @@
 cross-powerpc-unknown-linux-gnu/glibc -selinux -multilib
-cross-powerpc-unknown-linux-gnu/gcc -boundschecking -d -fortran -gcj -go -gtk -jit -libffi -mpx -mudflap -multilib -objc -objc++ -objc-gc -sanitize -selinux -ssp -vtv
+cross-powerpc-unknown-linux-gnu/gcc altivec -boundschecking -d -fortran -gcj -go -gtk -jit -libffi -mpx -mudflap -multilib -objc -objc++ -objc-gc -sanitize -selinux -ssp -vtv
