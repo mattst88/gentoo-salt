@@ -1,2 +1,3 @@
-net-fs/nfs-utils nfsv41
+net-fs/nfs-utils kerberos nfsv41 nfsdcld
+net-libs/libtirpc kerberos
 net-nds/rpcbind warmstarts
