@@ -1,6 +1,2 @@
-=dev-libs/nspr-4.21
-=dev-libs/nss-3.44.1
-=dev-util/cbindgen-0.8.7
-=media-libs/harfbuzz-2.5.3
-=media-libs/libvpx-1.7.0
-=www-client/firefox-68.0.2
+=dev-util/cbindgen-0.9.0
+=www-client/firefox-69.0
