@@ -1,1 +1,2 @@
 dev-libs/libpcre2 pcre16
+dev-qt/* -gles2
