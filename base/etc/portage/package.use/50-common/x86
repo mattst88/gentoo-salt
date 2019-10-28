@@ -17,6 +17,7 @@ dev-libs/fribidi abi_x86_32
 dev-libs/glib abi_x86_32
 dev-libs/gmp abi_x86_32
 dev-libs/icu abi_x86_32
+dev-libs/jemalloc abi_x86_32
 dev-libs/json-c abi_x86_32
 dev-libs/libaio abi_x86_32
 dev-libs/libbsd abi_x86_32
@@ -92,6 +93,7 @@ net-libs/libasyncns abi_x86_32
 net-libs/libndp abi_x86_32
 net-libs/libnsl abi_x86_32
 net-libs/libtirpc abi_x86_32
+net-libs/nghttp2 abi_x86_32
 net-libs/socket_wrapper abi_x86_32
 net-misc/curl abi_x86_32
 net-misc/networkmanager abi_x86_32
