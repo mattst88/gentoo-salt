@@ -1,1 +1,1 @@
-sys-apps/systemd gnuefi
+sys-apps/systemd cgroup-hybrid gnuefi
