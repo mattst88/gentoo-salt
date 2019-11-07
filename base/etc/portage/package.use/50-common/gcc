@@ -1,1 +1,2 @@
 >=sys-devel/gcc-6 pgo
+>=sys-devel/gcc-9 lto
