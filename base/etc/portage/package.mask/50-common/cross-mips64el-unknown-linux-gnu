@@ -1,4 +1,4 @@
 >cross-mips64el-unknown-linux-gnu/binutils-2.33.1
 >cross-mips64el-unknown-linux-gnu/gcc-9.2.0-r2
 >cross-mips64el-unknown-linux-gnu/linux-headers-5.1
->cross-mips64el-unknown-linux-gnu/glibc-2.29-r2
+>cross-mips64el-unknown-linux-gnu/glibc-2.30-r2
