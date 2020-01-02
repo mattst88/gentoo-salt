@@ -1,4 +1,4 @@
 >cross-armv7a-unknown-linux-gnueabihf/binutils-2.32-r1
->cross-armv7a-unknown-linux-gnueabihf/gcc-8.3.0-r1
->cross-armv7a-unknown-linux-gnueabihf/linux-headers-5.1
->cross-armv7a-unknown-linux-gnueabihf/glibc-2.29-r2
+>cross-armv7a-unknown-linux-gnueabihf/gcc-9.2.0-r2
+>cross-armv7a-unknown-linux-gnueabihf/linux-headers-5.4
+>cross-armv7a-unknown-linux-gnueabihf/glibc-2.29-r7
