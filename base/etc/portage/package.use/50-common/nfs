@@ -1,3 +1,4 @@
 net-fs/nfs-utils kerberos nfsv41 nfsdcld
 net-libs/libtirpc kerberos
 net-nds/rpcbind warmstarts
+sys-fs/quota rpc
