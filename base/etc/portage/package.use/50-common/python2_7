@@ -1,3 +1,2 @@
 dev-util/apitrace python_targets_python2_7 python_single_target_python2_7
 dev-util/gtk-doc python_targets_python2_7
-dev-util/scons python_targets_python2_7
