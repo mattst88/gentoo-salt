@@ -129,6 +129,7 @@ virtual/acl abi_x86_32
 virtual/glu abi_x86_32
 virtual/jpeg abi_x86_32
 virtual/krb5 abi_x86_32
+virtual/libcrypt abi_x86_32
 virtual/libffi abi_x86_32
 virtual/libgudev abi_x86_32
 virtual/libiconv abi_x86_32
