@@ -62,6 +62,7 @@ media-libs/glu abi_x86_32
 media-libs/harfbuzz abi_x86_32
 media-libs/lcms abi_x86_32
 media-libs/libepoxy abi_x86_32
+media-libs/libglvnd abi_x86_32
 media-libs/libjpeg-turbo abi_x86_32
 media-libs/libogg abi_x86_32
 media-libs/libpng abi_x86_32
