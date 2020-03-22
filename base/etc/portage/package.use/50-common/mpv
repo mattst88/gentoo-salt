@@ -1,2 +1,2 @@
-media-video/ffmpeg libaom libass openssl
+media-video/ffmpeg dav1d libaom libass openssl
 media-video/mpv drm
