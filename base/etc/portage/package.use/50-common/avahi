@@ -1,1 +1,2 @@
-net-dns/avahi autoipd -gtk mdnsresponder-compat
+net-dns/avahi autoipd mdnsresponder-compat
+<net-dns/avahi-0.8-r2 -gtk
