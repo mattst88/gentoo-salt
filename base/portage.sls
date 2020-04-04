@@ -65,3 +65,23 @@
     - source: salt://base/etc/portage/env/cross-powerpc-unknown-linux-gnu
     - include_empty: True
     - clean: True
+
+/etc/portage/package.env:
+  file.managed:
+    - names:
+      - /etc/portage/package.env/splitdebug:
+        - source: salt://base/etc/portage/package.env/splitdebug
+      - /etc/portage/package.env/cross-alpha-unknown-linux-gnu:
+        - source: salt://base/etc/portage/package.env/cross-alpha-unknown-linux-gnu
+      - /etc/portage/package.env/cross-armv7a-unknown-linux-gnueabihf:
+        - source: salt://base/etc/portage/package.env/cross-armv7a-unknown-linux-gnueabihf
+      - /etc/portage/package.env/cross-hppa2.0-unknown-linux-gnu:
+        - source: salt://base/etc/portage/package.env/cross-hppa2.0-unknown-linux-gnu
+      - /etc/portage/package.env/cross-hppa64-unknown-linux-gnu:
+        - source: salt://base/etc/portage/package.env/cross-hppa64-unknown-linux-gnu
+      - /etc/portage/package.env/cross-mips64-unknown-linux-gnu:
+        - source: salt://base/etc/portage/package.env/cross-mips64-unknown-linux-gnu
+      - /etc/portage/package.env/cross-mips64el-unknown-linux-gnu:
+        - source: salt://base/etc/portage/package.env/cross-mips64el-unknown-linux-gnu
+      - /etc/portage/package.env/cross-powerpc-unknown-linux-gnu:
+        - source: salt://base/etc/portage/package.env/cross-powerpc-unknown-linux-gnu
