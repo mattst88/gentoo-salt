@@ -1,3 +1,22 @@
+hierarchy:
+  file.directory:
+    - user: root
+    - group: root
+    - mode: 755
+    - makedirs: True
+    - names:
+      - /etc/portage/env
+      - /etc/portage/package.accept_keywords
+      - /etc/portage/package.env
+      - /etc/portage/package.use
+      - /etc/portage/profile
+      - /etc/portage/profile/package.mask
+      - /etc/portage/profile/package.provided
+      - /etc/portage/profile/package.use.mask
+      - /etc/portage/profile/package.use.stable.mask
+      - /etc/portage/profile/use.mask
+      - /etc/portage/profile/use.stable.mask
+
 /etc/portage/package.accept_keywords/50-common:
   file.recurse:
     - source: salt://base/etc/portage/package.accept_keywords/50-common
@@ -16,7 +35,7 @@
     - include_empty: True
     - clean: True
 
-/etc/portage/env:
+/etc/portage/env/files:
   file.managed:
     - names:
       - /etc/portage/env/ccache.conf:
