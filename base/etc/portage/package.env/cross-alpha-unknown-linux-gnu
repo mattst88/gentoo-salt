@@ -2,4 +2,3 @@ cross-alpha-unknown-linux-gnu/binutils cross-alpha-unknown-linux-gnu/binutils.co
 cross-alpha-unknown-linux-gnu/gcc cross-alpha-unknown-linux-gnu/gcc.conf
 cross-alpha-unknown-linux-gnu/linux-headers cross-alpha-unknown-linux-gnu/linux-headers.conf
 cross-alpha-unknown-linux-gnu/glibc cross-alpha-unknown-linux-gnu/glibc.conf
-cross-alpha-unknown-linux-gnu/gdb cross-alpha-unknown-linux-gnu/gdb.conf
