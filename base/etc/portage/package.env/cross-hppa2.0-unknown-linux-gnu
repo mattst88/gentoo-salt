@@ -1,4 +1,4 @@
-cross-hppa2.0-unknown-linux-gnu/binutils cross-hppa2.0-unknown-linux-gnu/binutils.conf
-cross-hppa2.0-unknown-linux-gnu/gcc cross-hppa2.0-unknown-linux-gnu/gcc.conf
-cross-hppa2.0-unknown-linux-gnu/linux-headers cross-hppa2.0-unknown-linux-gnu/linux-headers.conf
-cross-hppa2.0-unknown-linux-gnu/glibc cross-hppa2.0-unknown-linux-gnu/glibc.conf
+cross-hppa2.0-unknown-linux-gnu/binutils cross-hppa2.0-unknown-linux-gnu/host.conf
+cross-hppa2.0-unknown-linux-gnu/gcc cross-hppa2.0-unknown-linux-gnu/host.conf
+cross-hppa2.0-unknown-linux-gnu/linux-headers cross-hppa2.0-unknown-linux-gnu/host.conf
+cross-hppa2.0-unknown-linux-gnu/glibc cross-hppa2.0-unknown-linux-gnu/host.conf
