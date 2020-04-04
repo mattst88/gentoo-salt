@@ -29,9 +29,21 @@ hierarchy:
     - include_empty: True
     - clean: True
 
-/etc/portage/package.mask/50-common:
+/etc/portage/profile/package.mask/50-common:
   file.recurse:
-    - source: salt://base/etc/portage/package.mask/50-common
+    - source: salt://base/etc/portage/profile/package.mask/50-common
+    - include_empty: True
+    - clean: True
+
+/etc/portage/profile/package.use.mask/50-common:
+  file.recurse:
+    - source: salt://base/etc/portage/profile/package.use.mask/50-common
+    - include_empty: True
+    - clean: True
+
+/etc/portage/profile/package.use.stable.mask/50-common:
+  file.recurse:
+    - source: salt://base/etc/portage/profile/package.use.stable.mask/50-common
     - include_empty: True
     - clean: True
 
