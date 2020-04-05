@@ -1,1 +1,1 @@
-sys-apps/systemd cgroup-hybrid gnuefi
+sys-apps/systemd cgroup-hybrid gnuefi -resolvconf
