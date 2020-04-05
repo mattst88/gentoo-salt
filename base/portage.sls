@@ -19,31 +19,31 @@ hierarchy:
 
 /etc/portage/package.accept_keywords/50-common:
   file.recurse:
-    - source: salt://base/etc/portage/package.accept_keywords/50-common
+    - source: salt://base/etc/portage/package.accept_keywords
     - include_empty: True
     - clean: True
 
 /etc/portage/package.use/50-common:
   file.recurse:
-    - source: salt://base/etc/portage/package.use/50-common
+    - source: salt://base/etc/portage/package.use
     - include_empty: True
     - clean: True
 
 /etc/portage/profile/package.mask/50-common:
   file.recurse:
-    - source: salt://base/etc/portage/profile/package.mask/50-common
+    - source: salt://base/etc/portage/profile/package.mask
     - include_empty: True
     - clean: True
 
 /etc/portage/profile/package.use.mask/50-common:
   file.recurse:
-    - source: salt://base/etc/portage/profile/package.use.mask/50-common
+    - source: salt://base/etc/portage/profile/package.use.mask
     - include_empty: True
     - clean: True
 
 /etc/portage/profile/package.use.stable.mask/50-common:
   file.recurse:
-    - source: salt://base/etc/portage/profile/package.use.stable.mask/50-common
+    - source: salt://base/etc/portage/profile/package.use.stable.mask
     - include_empty: True
     - clean: True
 
