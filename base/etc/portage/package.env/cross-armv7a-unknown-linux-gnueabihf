@@ -1,4 +1,4 @@
 cross-armv7a-unknown-linux-gnueabihf/binutils cross-armv7a-unknown-linux-gnueabihf/host.conf
 cross-armv7a-unknown-linux-gnueabihf/gcc cross-armv7a-unknown-linux-gnueabihf/host.conf
-cross-armv7a-unknown-linux-gnueabihf/linux-headers cross-armv7a-unknown-linux-gnueabihf/host.conf
-cross-armv7a-unknown-linux-gnueabihf/glibc cross-armv7a-unknown-linux-gnueabihf/host.conf
+cross-armv7a-unknown-linux-gnueabihf/linux-headers cross-armv7a-unknown-linux-gnueabihf/target.conf
+cross-armv7a-unknown-linux-gnueabihf/glibc cross-armv7a-unknown-linux-gnueabihf/target.conf

@@ -1,4 +1,4 @@
 cross-hppa64-unknown-linux-gnu/binutils cross-hppa64-unknown-linux-gnu/host.conf
 cross-hppa64-unknown-linux-gnu/gcc cross-hppa64-unknown-linux-gnu/host.conf
-cross-hppa64-unknown-linux-gnu/linux-headers cross-hppa64-unknown-linux-gnu/host.conf
-cross-hppa64-unknown-linux-gnu/glibc cross-hppa64-unknown-linux-gnu/host.conf
+cross-hppa64-unknown-linux-gnu/linux-headers cross-hppa64-unknown-linux-gnu/target.conf
+cross-hppa64-unknown-linux-gnu/glibc cross-hppa64-unknown-linux-gnu/target.conf

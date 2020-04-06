@@ -1,4 +1,4 @@
 cross-alpha-unknown-linux-gnu/binutils cross-alpha-unknown-linux-gnu/host.conf
 cross-alpha-unknown-linux-gnu/gcc cross-alpha-unknown-linux-gnu/host.conf
-cross-alpha-unknown-linux-gnu/linux-headers cross-alpha-unknown-linux-gnu/host.conf
-cross-alpha-unknown-linux-gnu/glibc cross-alpha-unknown-linux-gnu/host.conf
+cross-alpha-unknown-linux-gnu/linux-headers cross-alpha-unknown-linux-gnu/target.conf
+cross-alpha-unknown-linux-gnu/glibc cross-alpha-unknown-linux-gnu/target.conf
