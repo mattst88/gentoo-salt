@@ -1,4 +1,4 @@
->cross-powerpc-unknown-linux-gnu/binutils-2.32-r1
->cross-powerpc-unknown-linux-gnu/gcc-9.2.0-r2
->cross-powerpc-unknown-linux-gnu/glibc-2.29-r7
->cross-powerpc-unknown-linux-gnu/linux-headers-5.4
+>=cross-powerpc-unknown-linux-gnu/binutils-2.34
+>=cross-powerpc-unknown-linux-gnu/gcc-9.3.0
+>=cross-powerpc-unknown-linux-gnu/linux-headers-5.6
+>=cross-powerpc-unknown-linux-gnu/glibc-2.31
