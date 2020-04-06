@@ -1,4 +1,0 @@
->=cross-hppa2.0-unknown-linux-gnu/binutils-2.35
->=cross-hppa2.0-unknown-linux-gnu/gcc-9.4.0
->=cross-hppa2.0-unknown-linux-gnu/linux-headers-5.6
->=cross-hppa2.0-unknown-linux-gnu/glibc-2.31
