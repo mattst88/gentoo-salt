@@ -24,6 +24,7 @@ dev-libs/libaio abi_x86_32
 dev-libs/libbsd abi_x86_32
 dev-libs/libcroco abi_x86_32
 dev-libs/libev abi_x86_32
+dev-libs/libevent abi_x86_32
 dev-libs/libffi abi_x86_32
 dev-libs/libgcrypt abi_x86_32
 dev-libs/libgpg-error abi_x86_32
