@@ -1,1 +1,1 @@
-www-client/chromium -system-ffmpeg
+www-client/chromium -system-ffmpeg -system-libvpx

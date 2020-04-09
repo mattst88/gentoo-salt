@@ -3,4 +3,4 @@ media-libs/libwebp gif
 media-video/ffmpeg opus openssl
 net-libs/nodejs inspector
 sys-libs/zlib minizip
-www-client/chromium kerberos jumbo-build system-ffmpeg
+www-client/chromium kerberos system-ffmpeg system-libvpx
