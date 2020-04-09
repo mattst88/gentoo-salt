@@ -7,3 +7,6 @@ base:
     - macbook
   'skl*.mattst88.com':
     - skylake
+  'p50*':
+    - base
+    - skylake
