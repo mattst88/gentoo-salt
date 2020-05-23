@@ -1,10 +1,3 @@
-/etc/portage/make.conf:
-  file.managed:
-    - user: root
-    - group: root
-    - mode: 644
-    - replace: False
-
 hierarchy:
   file.directory:
     - user: root
