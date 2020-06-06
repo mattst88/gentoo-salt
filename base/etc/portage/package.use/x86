@@ -123,7 +123,6 @@ sys-libs/libcap abi_x86_32
 sys-libs/libudev-compat abi_x86_32
 sys-libs/ncurses abi_x86_32
 sys-libs/nss_wrapper abi_x86_32
-sys-libs/ntdb abi_x86_32
 sys-libs/pam abi_x86_32
 sys-libs/readline abi_x86_32
 sys-libs/talloc abi_x86_32
@@ -143,12 +142,10 @@ virtual/libintl abi_x86_32
 virtual/libudev abi_x86_32
 virtual/libusb:1 abi_x86_32
 virtual/opengl abi_x86_32
-virtual/pam abi_x86_32
 virtual/pkgconfig abi_x86_32
 x11-base/xcb-proto abi_x86_32
 x11-libs/cairo abi_x86_32
 x11-libs/gdk-pixbuf abi_x86_32
-x11-libs/gtk+:2 cups
 x11-libs/gtk+ abi_x86_32
 x11-libs/libdrm abi_x86_32
 x11-libs/libICE abi_x86_32
