@@ -1,4 +1,4 @@
 app-emulation/libvirt virt-network
-app-emulation/qemu io-uring spice usbredir
+app-emulation/qemu io-uring snappy spice usb usbredir vhost-user-fs
 net-dns/dnsmasq script
 net-misc/spice-gtk usbredir
