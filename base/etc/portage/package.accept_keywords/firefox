@@ -1,3 +1,4 @@
+=dev-libs/nspr-4.26
 =dev-libs/nss-3.54-r1
 =media-libs/libvpx-1.8.2
 www-client/firefox
