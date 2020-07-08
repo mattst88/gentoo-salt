@@ -1,4 +1,3 @@
 media-libs/libpng apng
 dev-db/sqlite secure-delete
-www-client/firefox system-harfbuzz system-icu system-jpeg system-libevent system-libvpx system-sqlite wifi
->=www-client/firefox-68 wayland -pgo -lto
+www-client/firefox system-harfbuzz system-icu system-jpeg system-libevent system-libvpx system-sqlite wayland wifi
