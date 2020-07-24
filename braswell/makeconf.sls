@@ -7,5 +7,5 @@
     - mode: 644
     - context:
         arch: silvermont
-        cpu_flags_x86: mmx mmxext sse sse2 sse3 ssse3 sse4_1 sse4_2 aes
+        cpu_flags_x86: mmx mmxext sse sse2 sse3 ssse3 sse4_1 sse4_2 aes rdrand
         video_cards: intel i965
