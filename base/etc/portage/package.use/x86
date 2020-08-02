@@ -8,6 +8,7 @@ app-arch/zstd abi_x86_32
 app-crypt/mit-krb5 abi_x86_32
 dev-db/lmdb abi_x86_32
 dev-db/sqlite abi_x86_32
+dev-lang/rust abi_x86_32
 dev-lang/tcl abi_x86_32
 dev-libs/atk abi_x86_32
 dev-libs/boost abi_x86_32
@@ -143,6 +144,7 @@ virtual/libudev abi_x86_32
 virtual/libusb:1 abi_x86_32
 virtual/opengl abi_x86_32
 virtual/pkgconfig abi_x86_32
+virtual/rust abi_x86_32
 x11-base/xcb-proto abi_x86_32
 x11-libs/cairo abi_x86_32
 x11-libs/gdk-pixbuf abi_x86_32
