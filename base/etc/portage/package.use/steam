@@ -1,6 +1,6 @@
-games-util/steam-client-meta -steamruntime streaming steamfonts
-games-util/steam-games-meta -steamruntime s3tc steamgames_source_engines
-games-util/steam-launcher -steamruntime
-games-util/steam-meta -steamruntime
+games-util/steam-client-meta steamruntime streaming steamfonts
+games-util/steam-games-meta steamruntime s3tc steamgames_source_engine
+games-util/steam-launcher steamruntime
+games-util/steam-meta steamruntime
 media-libs/libsdl2 -wayland
 x11-libs/gtk+:2 cups
