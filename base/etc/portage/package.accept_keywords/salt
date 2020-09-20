@@ -1,2 +1,3 @@
 app-admin/salt
 =dev-python/pycryptodomex-3.9.8
+=dev-python/msgpack-1.0.0
