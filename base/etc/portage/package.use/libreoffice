@@ -1,2 +1,2 @@
-app-office/libreoffice pdfimport gstreamer
+app-office/libreoffice gstreamer
 dev-libs/xmlsec nss
