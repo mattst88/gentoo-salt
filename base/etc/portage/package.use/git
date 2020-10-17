@@ -1,1 +1,1 @@
-dev-vcs/git subversion
+dev-vcs/git subversion -perforce PYTHON_SINGLE_TARGET: -*
