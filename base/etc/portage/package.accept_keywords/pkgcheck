@@ -1,2 +1,3 @@
-sys-apps/pkgcore
+dev-python/snakeoil
 dev-util/pkgcheck
+sys-apps/pkgcore
