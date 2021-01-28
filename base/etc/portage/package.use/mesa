@@ -1,1 +1,1 @@
-media-libs/mesa -gallium gbm gles1 gles2 -llvm osmesa -vaapi valgrind vulkan wayland
+media-libs/mesa -gallium gbm gles1 gles2 -llvm -osmesa -vaapi valgrind vulkan wayland
