@@ -52,6 +52,7 @@ dev-util/cppunit abi_x86_32
 dev-util/pkgconf abi_x86_32
 dev-util/pkgconfig abi_x86_32
 dev-util/sysprof-capture abi_x86_32
+dev-util/wayland-scanner abi_x86_32
 gnome-base/gconf abi_x86_32
 gnome-base/librsvg abi_x86_32
 media-gfx/graphite2 abi_x86_32
