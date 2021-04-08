@@ -1,3 +1,0 @@
-# Required by libunwind[static-libs]
-app-arch/xz-utils static-libs
-sys-libs/zlib static-libs
