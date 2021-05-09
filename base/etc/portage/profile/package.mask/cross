@@ -3,10 +3,10 @@
 >=cross-alpha-unknown-linux-gnu/glibc-2.34
 >=cross-alpha-unknown-linux-gnu/linux-headers-5.13
 
->=cross-armv7a-unknown-linux-gnueabihf/binutils-2.34
->=cross-armv7a-unknown-linux-gnueabihf/gcc-9.4.0
->=cross-armv7a-unknown-linux-gnueabihf/linux-headers-5.10
->=cross-armv7a-unknown-linux-gnueabihf/glibc-2.31
+>=cross-armv7a-unknown-linux-gnueabihf/binutils-2.36
+>=cross-armv7a-unknown-linux-gnueabihf/gcc-10.3
+>=cross-armv7a-unknown-linux-gnueabihf/linux-headers-5.12
+>=cross-armv7a-unknown-linux-gnueabihf/glibc-2.33
 
 >=cross-hppa2.0-unknown-linux-gnu/binutils-2.35
 >=cross-hppa2.0-unknown-linux-gnu/gcc-9.4.0
