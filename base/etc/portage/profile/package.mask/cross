@@ -26,7 +26,7 @@
 >=cross-mips64el-unknown-linux-gnu/linux-headers-5.10
 >=cross-mips64el-unknown-linux-gnu/glibc-2.32
 
->=cross-powerpc-unknown-linux-gnu/binutils-2.34
->=cross-powerpc-unknown-linux-gnu/gcc-9.4.0
->=cross-powerpc-unknown-linux-gnu/linux-headers-5.10
->=cross-powerpc-unknown-linux-gnu/glibc-2.31
+>=cross-powerpc-unknown-linux-gnu/binutils-2.36
+>=cross-powerpc-unknown-linux-gnu/gcc-10.3
+>=cross-powerpc-unknown-linux-gnu/linux-headers-5.12
+>=cross-powerpc-unknown-linux-gnu/glibc-2.33
