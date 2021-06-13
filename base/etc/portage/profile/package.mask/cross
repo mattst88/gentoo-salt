@@ -1,5 +1,5 @@
 >=cross-alpha-unknown-linux-gnu/binutils-2.37
->=cross-alpha-unknown-linux-gnu/gcc-10.4
+>=cross-alpha-unknown-linux-gnu/gcc-11.2
 >=cross-alpha-unknown-linux-gnu/glibc-2.34
 >=cross-alpha-unknown-linux-gnu/linux-headers-5.13
 
