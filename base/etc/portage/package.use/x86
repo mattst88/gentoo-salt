@@ -108,6 +108,7 @@ net-libs/socket_wrapper abi_x86_32
 net-misc/curl abi_x86_32
 net-misc/networkmanager abi_x86_32
 net-print/cups abi_x86_32
+sci-mathematics/z3 abi_x86_32
 sys-apps/acl abi_x86_32
 sys-apps/attr abi_x86_32
 sys-apps/dbus abi_x86_32

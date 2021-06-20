@@ -1,1 +1,2 @@
 sys-devel/llvm gold
+>=sys-devel/llvm-12 z3
