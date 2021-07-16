@@ -126,6 +126,7 @@ sys-libs/ldb abi_x86_32
 sys-libs/libcap abi_x86_32
 sys-libs/libudev-compat abi_x86_32
 sys-libs/liburing abi_x86_32
+sys-libs/libxcrypt abi_x86_32
 sys-libs/ncurses abi_x86_32
 sys-libs/nss_wrapper abi_x86_32
 sys-libs/pam abi_x86_32
