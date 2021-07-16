@@ -1,0 +1,2 @@
+# Allow virtual which specifies libxcrypt
+~virtual/libcrypt-2

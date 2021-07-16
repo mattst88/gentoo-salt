@@ -1,0 +1,6 @@
+# Allow the new libcrypt virtual which includes libxcrypt
+>=virtual/libcrypt-2
+
+# Needed if you're on non-amd64/x86 for now (stabilisation ongoing)
+# (* copies stable keywords anywhere)
+sys-libs/libxcrypt *
