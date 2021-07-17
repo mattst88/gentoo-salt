@@ -3,6 +3,8 @@ base:
     - base
   'braswell.mattst88.com':
     - braswell
+  'ivybridge.mattst88.com':
+    - sandybridge
   'macbook.mattst88.com':
     - macbook
   'skl*.mattst88.com':
