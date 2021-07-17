@@ -1,4 +1,6 @@
 app-emulation/libvirt virt-network
-app-emulation/qemu io-uring snappy spice usb usbredir vhost-user-fs
+app-emulation/qemu io-uring smartcard spice usb usbredir vhost-user-fs virtfs
+app-emulation/qemu QEMU_SOFTMMU_TARGETS: x86_64
+app-emulation/qemu QEMU_USER_TARGETS:    -*
 net-dns/dnsmasq script
-net-misc/spice-gtk usbredir
+net-misc/spice-gtk smartcard usbredir
