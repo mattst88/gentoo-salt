@@ -12,6 +12,8 @@ hierarchy:
       - /etc/portage/profile
       - /etc/portage/profile/package.mask
       - /etc/portage/profile/package.provided
+      - /etc/portage/profile/package.unmask
+      - /etc/portage/profile/package.use.force
       - /etc/portage/profile/package.use.mask
       - /etc/portage/profile/package.use.stable.mask
       - /etc/portage/profile/use.mask
@@ -32,6 +34,18 @@ hierarchy:
 /etc/portage/profile/package.mask/50-common:
   file.recurse:
     - source: salt://base/etc/portage/profile/package.mask
+    - include_empty: True
+    - clean: True
+
+/etc/portage/profile/package.unmask/50-common:
+  file.recurse:
+    - source: salt://base/etc/portage/profile/package.unmask
+    - include_empty: True
+    - clean: True
+
+/etc/portage/profile/package.use.force/50-common:
+  file.recurse:
+    - source: salt://base/etc/portage/profile/package.use.force
     - include_empty: True
     - clean: True
 
