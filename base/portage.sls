@@ -8,6 +8,7 @@ hierarchy:
       - /etc/portage/env
       - /etc/portage/package.accept_keywords
       - /etc/portage/package.env
+      - /etc/portage/package.license
       - /etc/portage/package.use
       - /etc/portage/profile
       - /etc/portage/profile/package.mask
@@ -22,6 +23,12 @@ hierarchy:
 /etc/portage/package.accept_keywords/50-common:
   file.recurse:
     - source: salt://base/etc/portage/package.accept_keywords
+    - include_empty: True
+    - clean: True
+
+/etc/portage/package.license/50-common:
+  file.recurse:
+    - source: salt://base/etc/portage/package.license
     - include_empty: True
     - clean: True
 
