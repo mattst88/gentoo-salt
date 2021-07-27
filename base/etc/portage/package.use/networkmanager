@@ -1,2 +1,3 @@
-net-misc/networkmanager connection-sharing iwd modemmanager -ppp resolvconf -wext
+dev-libs/libnl utils
+net-misc/networkmanager connection-sharing iwd modemmanager -ppp resolvconf teamd -wext
 net-wireless/iwd -crda
