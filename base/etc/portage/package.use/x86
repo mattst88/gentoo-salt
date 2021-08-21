@@ -5,6 +5,7 @@ app-arch/libarchive abi_x86_32
 app-arch/lz4 abi_x86_32
 app-arch/xz-utils abi_x86_32
 app-arch/zstd abi_x86_32
+app-crypt/libmd abi_x86_32
 app-crypt/mit-krb5 abi_x86_32
 dev-db/lmdb abi_x86_32
 dev-db/sqlite abi_x86_32
