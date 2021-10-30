@@ -87,6 +87,7 @@ media-libs/mesa abi_x86_32
 media-libs/openal abi_x86_32
 media-libs/opus abi_x86_32
 media-libs/sdl2-image abi_x86_32
+media-libs/speexdsp abi_x86_32
 media-libs/tiff abi_x86_32
 media-libs/vo-aacenc abi_x86_32
 media-libs/vulkan-loader abi_x86_32
