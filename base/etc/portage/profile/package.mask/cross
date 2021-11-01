@@ -1,32 +1,32 @@
->=cross-alpha-unknown-linux-gnu/binutils-2.37
->=cross-alpha-unknown-linux-gnu/gcc-11.2
+>=cross-alpha-unknown-linux-gnu/binutils-2.38
+>=cross-alpha-unknown-linux-gnu/gcc-11.3
 >=cross-alpha-unknown-linux-gnu/glibc-2.34
->=cross-alpha-unknown-linux-gnu/linux-headers-5.13
+>=cross-alpha-unknown-linux-gnu/linux-headers-5.15
 
->=cross-armv7a-unknown-linux-gnueabihf/binutils-2.36
->=cross-armv7a-unknown-linux-gnueabihf/gcc-10.4
->=cross-armv7a-unknown-linux-gnueabihf/linux-headers-5.12
->=cross-armv7a-unknown-linux-gnueabihf/glibc-2.33
+>=cross-armv7a-unknown-linux-gnueabihf/binutils-2.38
+>=cross-armv7a-unknown-linux-gnueabihf/gcc-11.3
+>=cross-armv7a-unknown-linux-gnueabihf/glibc-2.34
+>=cross-armv7a-unknown-linux-gnueabihf/linux-headers-5.15
 
->=cross-hppa2.0-unknown-linux-gnu/binutils-2.36
+>=cross-hppa2.0-unknown-linux-gnu/binutils-2.38
 >=cross-hppa2.0-unknown-linux-gnu/gcc-10.4
->=cross-hppa2.0-unknown-linux-gnu/linux-headers-5.12
 >=cross-hppa2.0-unknown-linux-gnu/glibc-2.33
+>=cross-hppa2.0-unknown-linux-gnu/linux-headers-5.12
 
->=cross-hppa64-unknown-linux-gnu/binutils-2.36
->=cross-hppa64-unknown-linux-gnu/gcc-10.4
+>=cross-hppa64-unknown-linux-gnu/binutils-2.38
+>=cross-hppa64-unknown-linux-gnu/gcc-11.3
 
 >=cross-mips64-unknown-linux-gnu/binutils-2.37
 >=cross-mips64-unknown-linux-gnu/gcc-10.4
->=cross-mips64-unknown-linux-gnu/linux-headers-5.13
 >=cross-mips64-unknown-linux-gnu/glibc-2.33
+>=cross-mips64-unknown-linux-gnu/linux-headers-5.13
 
 >=cross-mips64el-unknown-linux-gnu/binutils-2.37
 >=cross-mips64el-unknown-linux-gnu/gcc-10.4
->=cross-mips64el-unknown-linux-gnu/linux-headers-5.13
 >=cross-mips64el-unknown-linux-gnu/glibc-2.33
+>=cross-mips64el-unknown-linux-gnu/linux-headers-5.13
 
->=cross-powerpc-unknown-linux-gnu/binutils-2.36
->=cross-powerpc-unknown-linux-gnu/gcc-10.4
->=cross-powerpc-unknown-linux-gnu/linux-headers-5.12
->=cross-powerpc-unknown-linux-gnu/glibc-2.33
+>=cross-powerpc-unknown-linux-gnu/binutils-2.38
+>=cross-powerpc-unknown-linux-gnu/gcc-11.3
+>=cross-powerpc-unknown-linux-gnu/glibc-2.34
+>=cross-powerpc-unknown-linux-gnu/linux-headers-5.15
