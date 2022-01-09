@@ -1,0 +1,11 @@
+app-doc/kicad-doc
+app-eselect/eselect-opencascade
+sci-electronics/kicad
+sci-electronics/kicad-footprints
+sci-electronics/kicad-i18n
+sci-electronics/kicad-meta
+sci-electronics/kicad-packages3d
+sci-electronics/kicad-symbols
+sci-electronics/kicad-templates
+sci-electronics/ngspice
+sci-libs/opencascade
