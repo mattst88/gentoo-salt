@@ -1,4 +1,4 @@
-media-libs/libvpx postproc svc
+media-libs/libvpx postproc
 media-libs/libwebp gif
 media-video/ffmpeg opus openssl
 net-libs/nodejs inspector system-icu

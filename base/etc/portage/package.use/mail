@@ -1,3 +1,2 @@
-mail-client/neomutt -berkdb gdbm gpgme hcache -lmdb notmuch slang
+mail-client/neomutt -berkdb gdbm gpgme -lmdb notmuch slang
 net-mail/notmuch mutt
-dev-libs/gmime smime
