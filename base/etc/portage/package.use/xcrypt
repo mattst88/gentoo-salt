@@ -1,5 +1,0 @@
-# Disable libcrypt in glibc
-sys-libs/glibc -crypt
-
-# Provide libcrypt
-sys-libs/libxcrypt system

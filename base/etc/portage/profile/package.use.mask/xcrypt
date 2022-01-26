@@ -1,2 +1,0 @@
-# Allow libxcrypt to be the system provider of libcrypt, not glibc
-sys-libs/libxcrypt -system -split-usr

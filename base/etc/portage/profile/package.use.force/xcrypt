@@ -1,2 +1,0 @@
-# Don't force glibc to provide libcrypt
-sys-libs/glibc -crypt
