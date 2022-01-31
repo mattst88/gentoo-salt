@@ -1,4 +1,4 @@
-app-emulation/libvirt virt-network
+app-emulation/libvirt parted virt-network
 app-emulation/qemu io-uring smartcard spice usb usbredir vhost-user-fs virtfs
 app-emulation/qemu QEMU_SOFTMMU_TARGETS: x86_64
 app-emulation/qemu QEMU_USER_TARGETS:    -*
