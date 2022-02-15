@@ -1,1 +1,1 @@
-sys-apps/util-linux -cramfs tty-helpers
+sys-apps/util-linux -cramfs python tty-helpers
