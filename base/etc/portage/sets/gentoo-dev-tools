@@ -7,7 +7,7 @@ app-portage/nattka
 app-portage/portage-utils
 app-portage/portpeek
 app-portage/pram
-app-portage/repoman
 dev-python/requests-futures
 dev-util/pkgcheck
+dev-util/pkgdev
 www-client/pybugz
