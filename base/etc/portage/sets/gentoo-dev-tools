@@ -1,0 +1,13 @@
+app-crypt/gnupg
+app-portage/eix
+app-portage/gentoolkit
+app-portage/mgorny-dev-scripts
+app-portage/mirrorselect
+app-portage/nattka
+app-portage/portage-utils
+app-portage/portpeek
+app-portage/pram
+app-portage/repoman
+dev-python/requests-futures
+dev-util/pkgcheck
+www-client/pybugz

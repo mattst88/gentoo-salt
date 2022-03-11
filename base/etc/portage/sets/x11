@@ -1,0 +1,15 @@
+dev-python/simplejson
+dev-util/vulkan-tools
+media-libs/glu
+media-libs/vulkan-loader
+media-libs/waffle
+x11-apps/igt-gpu-tools
+x11-apps/mesa-progs
+x11-apps/xisxwayland
+x11-apps/xmag
+x11-apps/xrandr
+x11-base/xorg-server
+x11-libs/libva
+x11-libs/libva-intel-media-driver
+x11-misc/util-macros
+x11-misc/xsel

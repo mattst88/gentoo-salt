@@ -20,6 +20,12 @@ hierarchy:
       - /etc/portage/profile/use.mask
       - /etc/portage/profile/use.stable.mask
 
+/etc/portage/sets:
+  file.recurse:
+    - source: salt://base/etc/portage/sets
+    - include_empty: True
+    - clean: True
+
 /etc/portage/package.accept_keywords/50-common:
   file.recurse:
     - source: salt://base/etc/portage/package.accept_keywords
