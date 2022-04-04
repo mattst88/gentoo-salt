@@ -96,6 +96,7 @@ media-sound/lame abi_x86_32
 media-sound/mpg123 abi_x86_32
 media-sound/pulseaudio abi_x86_32
 media-video/ffmpeg abi_x86_32
+media-video/pipewire abi_x86_32
 net-dns/avahi abi_x86_32
 net-dns/libidn2 abi_x86_32
 net-fs/samba abi_x86_32
