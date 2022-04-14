@@ -121,9 +121,9 @@ sys-apps/util-linux abi_x86_32
 sys-devel/flex abi_x86_32
 sys-devel/gettext abi_x86_32
 sys-devel/llvm abi_x86_32
+sys-fs/e2fsprogs abi_x86_32
 sys-libs/binutils-libs abi_x86_32
 sys-libs/cracklib abi_x86_32
-sys-libs/e2fsprogs-libs abi_x86_32
 sys-libs/ldb abi_x86_32
 sys-libs/libcap abi_x86_32
 sys-libs/libudev-compat abi_x86_32
