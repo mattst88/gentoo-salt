@@ -1,1 +1,1 @@
-www-client/firefox clang lto pgo system-harfbuzz system-icu system-jpeg system-libevent system-libvpx wayland wifi
+www-client/firefox clang libproxy lto pgo system-harfbuzz system-icu system-jpeg system-libevent system-libvpx wayland wifi
