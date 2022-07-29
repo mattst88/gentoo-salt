@@ -1,1 +1,2 @@
-media-sound/pulseaudio native-headset
+media-video/pipewire sound-server
+media-sound/pulseaudio -daemon
