@@ -1,3 +1,5 @@
+dev-libs/tree-sitter-bash
 dev-python/snakeoil
 dev-util/pkgcheck
+dev-util/pkgdev
 sys-apps/pkgcore
