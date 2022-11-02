@@ -1,2 +1,2 @@
 media-video/ffmpeg dav1d libaom libass openssl
-media-video/mpv drm
+media-video/mpv drm LUA_SINGLE_TARGET: -lua5-1 luajit
