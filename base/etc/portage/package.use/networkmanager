@@ -1,4 +1,4 @@
 dev-libs/libnl utils
 net-misc/modemmanager -qmi -qrtr
-net-misc/networkmanager connection-sharing iwd modemmanager -ppp teamd -wext
+net-misc/networkmanager connection-sharing iwd modemmanager -ppp resolvconf teamd -wext
 net-wireless/iwd -crda
