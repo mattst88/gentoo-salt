@@ -32,6 +32,7 @@ dev-libs/libgcrypt abi_x86_32
 dev-libs/libgpg-error abi_x86_32
 dev-libs/libgudev abi_x86_32
 dev-libs/libnl abi_x86_32
+dev-libs/libpcre2 abi_x86_32
 dev-libs/libpcre abi_x86_32
 dev-libs/libpthread-stubs abi_x86_32
 dev-libs/libtasn1 abi_x86_32
@@ -52,7 +53,6 @@ dev-util/cmocka abi_x86_32
 dev-util/cppunit abi_x86_32
 dev-util/pkgconf abi_x86_32
 dev-util/sysprof-capture abi_x86_32
-gnome-base/gconf abi_x86_32
 gnome-base/librsvg abi_x86_32
 media-gfx/graphite2 abi_x86_32
 media-libs/alsa-lib abi_x86_32
@@ -78,6 +78,8 @@ media-libs/libsdl2 abi_x86_32
 media-libs/libsdl abi_x86_32
 media-libs/libsndfile abi_x86_32
 media-libs/libtheora abi_x86_32
+media-libs/libva abi_x86_32
+media-libs/libva-intel-driver abi_x86_32
 media-libs/libvorbis abi_x86_32
 media-libs/libvpx abi_x86_32
 media-libs/libwebp abi_x86_32
@@ -97,8 +99,8 @@ media-sound/lame abi_x86_32
 media-sound/mpg123 abi_x86_32
 media-sound/pulseaudio abi_x86_32
 media-video/ffmpeg abi_x86_32
-media-video/pipewire abi_x86_32
 net-dns/avahi abi_x86_32
+net-dns/c-ares abi_x86_32
 net-dns/libidn2 abi_x86_32
 net-fs/samba abi_x86_32
 net-libs/gnutls abi_x86_32
@@ -152,7 +154,6 @@ virtual/libudev abi_x86_32
 virtual/libusb:1 abi_x86_32
 virtual/opengl abi_x86_32
 virtual/rust abi_x86_32
-x11-base/xcb-proto abi_x86_32
 x11-libs/cairo abi_x86_32
 x11-libs/gdk-pixbuf abi_x86_32
 x11-libs/gtk+ abi_x86_32
@@ -160,8 +161,6 @@ x11-libs/libdrm abi_x86_32
 x11-libs/libICE abi_x86_32
 x11-libs/libpciaccess abi_x86_32
 x11-libs/libSM abi_x86_32
-x11-libs/libva abi_x86_32
-x11-libs/libva-intel-driver abi_x86_32
 x11-libs/libvdpau abi_x86_32
 x11-libs/libX11 abi_x86_32
 x11-libs/libXau abi_x86_32
