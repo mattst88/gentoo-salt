@@ -1,0 +1,2 @@
+dev-lua/lpeg  LUA_TARGETS: -lua5-1
+dev-lua/mpack LUA_TARGETS: -lua5-1
