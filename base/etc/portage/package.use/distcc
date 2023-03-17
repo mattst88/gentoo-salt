@@ -1,1 +1,1 @@
-<sys-devel/distcc-3.4 -gtk
+sys-devel/distcc PYTHON_SINGLE_TARGET: python3_10
