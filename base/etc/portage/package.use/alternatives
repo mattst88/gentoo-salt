@@ -1,0 +1,2 @@
+app-alternatives/bzip2 -reference lbzip2
+app-alternatives/gzip -reference pigz
