@@ -27,7 +27,6 @@ net-dns/avahi         -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
 net-firewall/nftables -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
 net-fs/cifs-utils     -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
 net-mail/mailutils    -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
-net-mail/notmuch      -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
 sci-mathematics/z3    -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
 sys-apps/file         -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
 sys-apps/kmod         -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
