@@ -2,7 +2,37 @@
 */* PYTHON_SINGLE_TARGET: -python3_10 python3_11
 dev-lang/python lto pgo
 
-media-gfx/zbar       -python PYTHON_SINGLE_TARGET: -*
-sys-libs/cracklib    -python PYTHON_TARGETS: -*
-sys-libs/libcap-ng   -python PYTHON_TARGETS: -*
-sys-libs/libseccomp  -python PYTHON_TARGETS: -*
+app-arch/brotli       -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+app-crypt/gpgme       -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+app-editors/vim       -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+app-emulation/qemu    -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+app-i18n/ibus         -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+app-misc/pax-utils    -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+dev-libs/boost        -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+dev-libs/gom          -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+dev-libs/libbytesize  -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+dev-libs/libgit2-glib -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+dev-libs/libnl        -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+dev-libs/libpwquality -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+dev-libs/libxslt      -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+media-gfx/eog-plugins -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+media-gfx/fontforge   -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+media-gfx/graphviz    -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+media-gfx/zbar        -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+media-libs/alsa-lib   -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+media-libs/gexiv2     -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+media-sound/rhythmbox -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+media-video/totem     -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+net-dns/avahi         -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+net-firewall/nftables -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+net-fs/cifs-utils     -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+net-mail/mailutils    -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+net-mail/notmuch      -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+sci-mathematics/z3    -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+sys-apps/file         -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+sys-apps/kmod         -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+sys-apps/usbutils     -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+sys-apps/util-linux   -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+sys-libs/cracklib     -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+sys-libs/libcap-ng    -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
+sys-libs/libseccomp   -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
