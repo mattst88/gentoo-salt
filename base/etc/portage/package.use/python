@@ -5,7 +5,6 @@ dev-lang/python lto pgo
 app-arch/brotli       -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
 app-crypt/gpgme       -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
 app-editors/vim       -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
-app-emulation/qemu    -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
 app-i18n/ibus         -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
 app-misc/pax-utils    -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
 dev-libs/boost        -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
