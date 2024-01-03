@@ -15,7 +15,6 @@ dev-python/mypy
 dev-python/networkx
 dev-python/pycodestyle
 dev-python/pydecomp
-dev-python/pydocstyle
 dev-python/pyflakes
 dev-python/pylint
 dev-python/pynvim
