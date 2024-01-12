@@ -1,9 +1,9 @@
-app-doc/doxygen
 app-editors/neovim
 app-editors/vim
 app-misc/colordiff
 app-misc/jq
 app-text/dos2unix
+app-text/doxygen
 app-text/pdfgrep
 app-text/sloccount
 dev-python/autopep8
