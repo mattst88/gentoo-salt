@@ -6,6 +6,7 @@ app-text/dos2unix
 app-text/doxygen
 app-text/pdfgrep
 app-text/sloccount
+dev-debug/valgrind
 dev-python/autopep8
 dev-python/flake8
 dev-python/jedi
@@ -35,7 +36,6 @@ dev-util/shellcheck-bin
 dev-util/strace
 dev-util/sysprof
 dev-util/unifdef
-dev-util/valgrind
 dev-util/vbindiff
 dev-vcs/git
 dev-vcs/tig
