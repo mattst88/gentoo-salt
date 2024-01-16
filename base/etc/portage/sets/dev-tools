@@ -6,6 +6,7 @@ app-text/dos2unix
 app-text/doxygen
 app-text/pdfgrep
 app-text/sloccount
+dev-debug/gdb
 dev-debug/valgrind
 dev-python/autopep8
 dev-python/flake8
@@ -43,5 +44,4 @@ media-gfx/xdot
 net-libs/nodejs
 sys-apps/ripgrep
 sys-devel/clang
-sys-devel/gdb
 sys-devel/lld
