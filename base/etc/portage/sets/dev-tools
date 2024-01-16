@@ -6,6 +6,7 @@ app-text/dos2unix
 app-text/doxygen
 app-text/pdfgrep
 app-text/sloccount
+dev-build/ninja
 dev-debug/gdb
 dev-debug/valgrind
 dev-python/autopep8
@@ -30,7 +31,6 @@ dev-util/ccache
 dev-util/ccls
 dev-util/gn
 dev-util/indent
-dev-util/ninja
 dev-util/pahole
 dev-util/perf
 dev-util/shellcheck-bin
