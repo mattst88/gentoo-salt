@@ -6,6 +6,7 @@ app-text/dos2unix
 app-text/doxygen
 app-text/pdfgrep
 app-text/sloccount
+dev-build/gn
 dev-build/ninja
 dev-debug/gdb
 dev-debug/valgrind
@@ -29,7 +30,6 @@ dev-python/yapf
 dev-util/bloaty
 dev-util/ccache
 dev-util/ccls
-dev-util/gn
 dev-util/indent
 dev-util/pahole
 dev-util/perf
