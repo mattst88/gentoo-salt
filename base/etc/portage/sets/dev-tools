@@ -9,6 +9,7 @@ app-text/sloccount
 dev-build/gn
 dev-build/ninja
 dev-debug/gdb
+dev-debug/strace
 dev-debug/valgrind
 dev-python/autopep8
 dev-python/flake8
@@ -34,7 +35,6 @@ dev-util/indent
 dev-util/pahole
 dev-util/perf
 dev-util/shellcheck-bin
-dev-util/strace
 dev-util/sysprof
 dev-util/unifdef
 dev-util/vbindiff
