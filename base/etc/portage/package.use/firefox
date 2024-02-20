@@ -1,2 +1,2 @@
-www-client/firefox clang libproxy lto pgo system-harfbuzz system-icu system-jpeg system-libevent system-libvpx wayland wifi
+www-client/firefox clang libproxy lto pgo openh264 screencast system-harfbuzz system-icu system-jpeg system-libevent system-libvpx system-sqlite wayland wifi
 gui-libs/wlroots tinywl
