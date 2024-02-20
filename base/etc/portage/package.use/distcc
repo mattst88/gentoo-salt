@@ -1,1 +1,1 @@
-sys-devel/distcc PYTHON_SINGLE_TARGET: python3_10
+sys-devel/distcc -gnome -gtk
