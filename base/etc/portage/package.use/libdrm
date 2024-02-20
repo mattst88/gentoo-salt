@@ -1,1 +1,1 @@
-x11-libs/libdrm valgrind
+x11-libs/libdrm valgrind VIDEO_CARDS: amdgpu intel nouveau radeon vmware
