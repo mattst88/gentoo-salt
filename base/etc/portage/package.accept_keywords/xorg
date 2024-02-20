@@ -1,2 +1,4 @@
 dev-libs/wayland-protocols
+dev-util/intel_clc
+media-libs/mesa
 x11-libs/libdrm
