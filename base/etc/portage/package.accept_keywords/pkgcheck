@@ -1,6 +1,6 @@
 app-portage/mgorny-dev-scripts
 dev-libs/tree-sitter-bash
-dev-python/flit_core
+dev-python/flit-core
 dev-python/snakeoil
 dev-util/pkgcheck
 dev-util/pkgdev
