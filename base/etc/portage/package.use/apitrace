@@ -1,4 +1,4 @@
 app-arch/brotli abi_x86_32
 app-arch/snappy abi_x86_32
-dev-util/apitrace qt5 abi_x86_32
+dev-debug/apitrace qt5 abi_x86_32
 sys-process/procps abi_x86_32
