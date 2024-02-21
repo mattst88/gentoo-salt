@@ -1,2 +1,3 @@
 app-text/asciidoc graphviz
+app-text/doxygen dot
 media-libs/gd truetype
