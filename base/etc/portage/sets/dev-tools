@@ -42,6 +42,5 @@ dev-vcs/git
 dev-vcs/tig
 media-gfx/xdot
 net-libs/nodejs
-sys-apps/ripgrep
 sys-devel/clang
 sys-devel/lld

@@ -15,6 +15,7 @@ sci-mathematics/calc
 sys-apps/ethtool
 sys-apps/lm-sensors
 sys-apps/pv
+sys-apps/ripgrep
 sys-apps/smartmontools
 sys-apps/usbutils
 sys-devel/bc
