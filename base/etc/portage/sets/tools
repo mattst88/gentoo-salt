@@ -13,6 +13,7 @@ net-misc/mosh
 net-misc/whois
 sci-mathematics/calc
 sys-apps/ethtool
+sys-apps/fd
 sys-apps/lm-sensors
 sys-apps/pv
 sys-apps/ripgrep
