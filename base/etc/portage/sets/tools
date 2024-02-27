@@ -1,7 +1,6 @@
 app-admin/stow
 app-admin/sudo
 app-eselect/eselect-repository
-app-misc/screen
 app-misc/tmux
 app-shells/autojump
 app-shells/fzf
