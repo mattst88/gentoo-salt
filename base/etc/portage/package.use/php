@@ -1,0 +1,4 @@
+app-eselect/eselect-php fpm
+app-misc/mime-types nginx
+dev-lang/php -cli -crypt fpm gd pdo sqlite xmlreader -avif -exif -spell -truetype -webp -xpm
+www-servers/nginx aio vim-syntax NGINX_MODULES_HTTP: addition brotli fancyindex dav dav_ext gunzip gzip_static xslt
