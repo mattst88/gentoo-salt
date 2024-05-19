@@ -39,6 +39,5 @@ dev-util/vbindiff
 dev-vcs/git
 dev-vcs/tig
 media-gfx/xdot
-net-libs/nodejs
 sys-devel/clang
 sys-devel/lld
