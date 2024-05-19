@@ -1,2 +1,2 @@
-dev-lang/rust nightly rust-analyzer rust-src rustfmt system-llvm
+dev-lang/rust nightly rust-analyzer rust-src rustfmt system-bootstrap system-llvm
 virtual/rust rustfmt
