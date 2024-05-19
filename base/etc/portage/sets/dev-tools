@@ -23,8 +23,6 @@ dev-python/pydecomp
 dev-python/pyflakes
 dev-python/pylint
 dev-python/pynvim
-dev-python/python-lsp-black
-dev-python/python-lsp-server
 dev-python/scipy
 dev-python/tox
 dev-python/yapf
