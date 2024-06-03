@@ -2,9 +2,9 @@ app-editors/neovim
 app-editors/vim
 app-misc/colordiff
 app-misc/jq
+app-misc/yq
 app-text/dos2unix
 app-text/doxygen
-app-text/pdfgrep
 app-text/sloccount
 dev-build/gn
 dev-build/ninja
