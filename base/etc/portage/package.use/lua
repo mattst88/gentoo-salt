@@ -2,3 +2,4 @@ app-editors/vim             -lua LUA_TARGETS: -* LUA_SINGLE_TARGET: -*
 dev-libs/libpeas            -lua LUA_TARGETS: -* LUA_SINGLE_TARGET: -*
 media-plugins/grilo-plugins -lua LUA_TARGETS: -* LUA_SINGLE_TARGET: -*
 net-dns/dnsmasq             -lua LUA_TARGETS: -* LUA_SINGLE_TARGET: -*
+www-apps/cgit               -lua LUA_TARGETS: -* LUA_SINGLE_TARGET: -*
