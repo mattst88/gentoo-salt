@@ -1,5 +1,5 @@
-*/* PYTHON_TARGETS:       -python3_10 python3_11
-*/* PYTHON_SINGLE_TARGET: -python3_10 python3_11
+*/* PYTHON_TARGETS:       -python3_11 python3_12
+*/* PYTHON_SINGLE_TARGET: -python3_11 python3_12
 dev-lang/python lto pgo
 
 app-arch/brotli       -python PYTHON_TARGETS: -* PYTHON_SINGLE_TARGET: -*
