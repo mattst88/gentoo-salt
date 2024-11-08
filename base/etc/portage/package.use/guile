@@ -1,0 +1,4 @@
+dev-build/make     -guile GUILE_SINGLE_TARGET: -*
+dev-debug/gdb      -guile GUILE_SINGLE_TARGET: -*
+media-gfx/graphviz -guile GUILE_SINGLE_TARGET: -*
+net-mail/mailutils -guile GUILE_SINGLE_TARGET: -*
