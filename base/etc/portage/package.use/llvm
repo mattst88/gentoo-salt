@@ -1,1 +1,3 @@
 */* LLVM_TARGETS: AMDGPU BPF NVPTX SPIRV
+
+dev-lang/python -jit LLVM_SLOT: -*
