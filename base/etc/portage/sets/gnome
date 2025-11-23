@@ -2,8 +2,10 @@ app-arch/file-roller
 app-crypt/seahorse
 app-editors/gedit
 app-text/evince
+app-text/papers
+dev-util/gi-docgen
 gnome-base/gdm
-gnome-base/gnome-light
+gnome-base/nautilus
 gnome-extra/gnome-browser-connector
 gnome-extra/gnome-calculator
 gnome-extra/gnome-power-manager
@@ -12,8 +14,9 @@ gnome-extra/gnome-system-monitor
 gnome-extra/gnome-tweaks
 gnome-extra/gnome-weather
 media-gfx/eog
-media-gfx/gnome-screenshot
 media-gfx/simple-scan
 media-video/cheese
 net-misc/networkmanager
 sys-apps/gnome-disk-utility
+sys-auth/rtkit
+x11-themes/gnome-backgrounds

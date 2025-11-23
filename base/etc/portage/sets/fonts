@@ -1,4 +1,5 @@
 media-fonts/artwiz-aleczapka-en
+media-fonts/cantarell
 media-fonts/croscorefonts
 media-fonts/dejavu
 media-fonts/font-util
@@ -7,5 +8,7 @@ media-fonts/lohit-fonts
 media-fonts/noto
 media-fonts/noto-cjk
 media-fonts/noto-emoji
+media-fonts/open-sans
+media-fonts/source-code-pro
 media-fonts/terminus-font
 media-fonts/unifont
