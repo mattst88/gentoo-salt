@@ -1,0 +1,30 @@
+# app-misc/mosquitto
+acct-user/mosquitto
+acct-group/mosquitto
+dev-util/cunit
+
+# dev-libs/libei
+dev-python/python-dbusmock
+dev-python/pyyaml
+dev-python/structlog
+
+# dev-libs/libinput
+dev-libs/check
+dev-python/pytest-xdist
+dev-python/pytest
+
+# dev-libs/libwacom
+dev-python/libevdev
+dev-python/pyudev
+dev-python/pytest
+
+# x11-base/xwayland
+x11-misc/rendercheck
+
+# x11-libs/libxkbcommon
+x11-apps/setxkbmap
+
+# x11-misc/xkeyboard-config
+dev-python/pycountry
+dev-python/pytest-xdist
+dev-python/pytest
