@@ -1,3 +1,4 @@
-=dev-libs/nspr-4.35
-=dev-libs/nss-3.97
+=dev-libs/nspr-4.38.2
+=dev-libs/nss-3.122
 www-client/firefox
+www-client/firefox-l10n
