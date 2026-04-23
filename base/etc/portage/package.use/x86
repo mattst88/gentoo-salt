@@ -53,8 +53,12 @@ dev-python/subunit abi_x86_32
 dev-util/cmocka abi_x86_32
 dev-util/cppunit abi_x86_32
 dev-util/pkgconf abi_x86_32
+dev-util/spirv-tools abi_x86_32
 dev-util/sysprof-capture abi_x86_32
+dev-util/wayland-scanner abi_x86_32
 gnome-base/librsvg abi_x86_32
+llvm-core/clang abi_x86_32
+llvm-core/llvm abi_x86_32
 media-gfx/graphite2 abi_x86_32
 media-libs/alsa-lib abi_x86_32
 media-libs/audiofile abi_x86_32
@@ -68,6 +72,9 @@ media-libs/harfbuzz abi_x86_32
 media-libs/lcms abi_x86_32
 media-libs/libaom abi_x86_32
 media-libs/libass abi_x86_32
+media-libs/libdvdcss abi_x86_32
+media-libs/libdvdnav abi_x86_32
+media-libs/libdvdread abi_x86_32
 media-libs/libepoxy abi_x86_32
 media-libs/libglvnd abi_x86_32
 media-libs/libjpeg-turbo abi_x86_32
@@ -111,6 +118,8 @@ net-libs/libnsl abi_x86_32
 net-libs/libpsl abi_x86_32
 net-libs/libtirpc abi_x86_32
 net-libs/nghttp2 abi_x86_32
+net-libs/nghttp3 abi_x86_32
+net-libs/ngtcp2 abi_x86_32
 net-libs/socket_wrapper abi_x86_32
 net-misc/curl abi_x86_32
 net-print/cups abi_x86_32
@@ -121,13 +130,12 @@ sys-apps/keyutils abi_x86_32
 sys-apps/systemd abi_x86_32
 sys-apps/tcp-wrappers abi_x86_32
 sys-apps/util-linux abi_x86_32
-sys-devel/clang abi_x86_32
 sys-devel/flex abi_x86_32
 sys-devel/gettext abi_x86_32
-sys-devel/llvm abi_x86_32
 sys-fs/e2fsprogs abi_x86_32
 sys-libs/binutils-libs abi_x86_32
 sys-libs/cracklib abi_x86_32
+sys-libs/gdbm abi_x86_32
 sys-libs/ldb abi_x86_32
 sys-libs/libcap abi_x86_32
 sys-libs/libudev-compat abi_x86_32
@@ -156,6 +164,7 @@ virtual/libusb:1 abi_x86_32
 virtual/opengl abi_x86_32
 virtual/pkgconfig abi_x86_32
 virtual/rust abi_x86_32
+virtual/zlib abi_x86_32
 x11-libs/cairo abi_x86_32
 x11-libs/gdk-pixbuf abi_x86_32
 x11-libs/gtk+ abi_x86_32
@@ -163,7 +172,6 @@ x11-libs/libdrm abi_x86_32
 x11-libs/libICE abi_x86_32
 x11-libs/libpciaccess abi_x86_32
 x11-libs/libSM abi_x86_32
-x11-libs/libva-intel-driver abi_x86_32
 x11-libs/libvdpau abi_x86_32
 x11-libs/libX11 abi_x86_32
 x11-libs/libXau abi_x86_32
