@@ -10,4 +10,5 @@ app-portage/portpeek
 app-portage/pram
 dev-python/requests-futures
 dev-util/pkgcheck
+dev-util/pkgdev
 www-client/pybugz

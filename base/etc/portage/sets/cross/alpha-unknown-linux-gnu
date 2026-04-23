@@ -1,0 +1,4 @@
+cross-alpha-unknown-linux-gnu/binutils
+cross-alpha-unknown-linux-gnu/gcc
+cross-alpha-unknown-linux-gnu/glibc
+cross-alpha-unknown-linux-gnu/linux-headers

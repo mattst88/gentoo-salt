@@ -1,0 +1,11 @@
+cross-*/gcc -cet -d default-stack-clash-protection default-znow -fortran -go -gtk -jit -libffi -multilib -objc -objc++ -ob  c-gc sanitize -selinux -ssp -vtv
+cross-*/binutils -cet
+cross-*/glibc -cet -caps -systemd
+cross-*/linux-headers headers-only
+
+cross-hppa64-unknown-linux-gnu/gcc -cxx -openmp
+
+cross-mips64-unknown-linux-gnu/gcc multilib
+cross-mips64el-unknown-linux-gnu/gcc multilib
+cross-mips64-unknown-linux-gnu/glibc multilib
+cross-mips64el-unknown-linux-gnu/glibc multilib

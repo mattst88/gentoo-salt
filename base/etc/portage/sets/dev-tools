@@ -13,6 +13,7 @@ dev-debug/gdb
 dev-debug/gfxreconstruct
 dev-debug/strace
 dev-debug/valgrind
+dev-go/gopls
 dev-python/autopep8
 dev-python/flake8
 dev-python/jedi

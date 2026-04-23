@@ -1,0 +1,4 @@
+cross-powerpc64le-unknown-linux-gnu/binutils
+cross-powerpc64le-unknown-linux-gnu/gcc
+cross-powerpc64le-unknown-linux-gnu/glibc
+cross-powerpc64le-unknown-linux-gnu/linux-headers

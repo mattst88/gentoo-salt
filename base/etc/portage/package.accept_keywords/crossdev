@@ -1,34 +1,57 @@
-sys-devel/crossdev
+cross-aarch64-unknown-linux-gnu/binutils arm64
+cross-aarch64-unknown-linux-gnu/gcc arm64
+cross-aarch64-unknown-linux-gnu/glibc arm64
+cross-aarch64-unknown-linux-gnu/linux-headers arm64
 
-cross-alpha-unknown-linux-gnu/gcc
-cross-alpha-unknown-linux-gnu/binutils
-cross-alpha-unknown-linux-gnu/glibc
-cross-alpha-unknown-linux-gnu/linux-headers
+cross-alpha-unknown-linux-gnu/binutils ~alpha
+cross-alpha-unknown-linux-gnu/gcc ~alpha
+cross-alpha-unknown-linux-gnu/glibc ~alpha
+cross-alpha-unknown-linux-gnu/linux-headers ~alpha
 
-cross-armv7a-unknown-linux-gnueabihf/gcc
-cross-armv7a-unknown-linux-gnueabihf/binutils
-cross-armv7a-unknown-linux-gnueabihf/glibc
-cross-armv7a-unknown-linux-gnueabihf/linux-headers
+cross-armv7a-unknown-linux-gnueabihf/binutils arm
+cross-armv7a-unknown-linux-gnueabihf/gcc arm
+cross-armv7a-unknown-linux-gnueabihf/glibc arm
+cross-armv7a-unknown-linux-gnueabihf/linux-headers arm
 
-cross-hppa2.0-unknown-linux-gnu/gcc
-cross-hppa2.0-unknown-linux-gnu/binutils
-cross-hppa2.0-unknown-linux-gnu/glibc
-cross-hppa2.0-unknown-linux-gnu/linux-headers
+cross-hppa2.0-unknown-linux-gnu/binutils hppa
+cross-hppa2.0-unknown-linux-gnu/gcc hppa
+cross-hppa2.0-unknown-linux-gnu/glibc hppa
+cross-hppa2.0-unknown-linux-gnu/linux-headers hppa
 
-cross-hppa64-unknown-linux-gnu/gcc
-cross-hppa64-unknown-linux-gnu/binutils
+cross-hppa64-unknown-linux-gnu/binutils hppa
+cross-hppa64-unknown-linux-gnu/gcc hppa
 
-cross-mips64-unknown-linux-gnu/gcc
-cross-mips64-unknown-linux-gnu/binutils
-cross-mips64-unknown-linux-gnu/glibc
-cross-mips64-unknown-linux-gnu/linux-headers
+cross-mips64-unknown-linux-gnu/binutils ~mips
+cross-mips64-unknown-linux-gnu/gcc ~mips
+cross-mips64-unknown-linux-gnu/glibc ~mips
+cross-mips64-unknown-linux-gnu/linux-headers ~mips
 
-cross-mips64el-unknown-linux-gnu/gcc
-cross-mips64el-unknown-linux-gnu/binutils
-cross-mips64el-unknown-linux-gnu/glibc
-cross-mips64el-unknown-linux-gnu/linux-headers
+cross-mips64el-unknown-linux-gnu/binutils ~mips
+cross-mips64el-unknown-linux-gnu/gcc ~mips
+cross-mips64el-unknown-linux-gnu/glibc ~mips
+cross-mips64el-unknown-linux-gnu/linux-headers ~mips
 
-cross-powerpc-unknown-linux-gnu/gcc
-cross-powerpc-unknown-linux-gnu/binutils
-cross-powerpc-unknown-linux-gnu/glibc
-cross-powerpc-unknown-linux-gnu/linux-headers
+cross-powerpc-unknown-linux-gnu/binutils ppc
+cross-powerpc-unknown-linux-gnu/gcc ppc
+cross-powerpc-unknown-linux-gnu/glibc ppc
+cross-powerpc-unknown-linux-gnu/linux-headers ppc
+
+cross-powerpc64-unknown-linux-gnu/binutils ppc64
+cross-powerpc64-unknown-linux-gnu/gcc ppc64
+cross-powerpc64-unknown-linux-gnu/glibc ppc64
+cross-powerpc64-unknown-linux-gnu/linux-headers ppc64
+
+cross-powerpc64le-unknown-linux-gnu/binutils ppc64
+cross-powerpc64le-unknown-linux-gnu/gcc ppc64
+cross-powerpc64le-unknown-linux-gnu/glibc ppc64
+cross-powerpc64le-unknown-linux-gnu/linux-headers ppc64
+
+cross-riscv64-unknown-linux-gnu/binutils riscv
+cross-riscv64-unknown-linux-gnu/gcc riscv
+cross-riscv64-unknown-linux-gnu/glibc riscv
+cross-riscv64-unknown-linux-gnu/linux-headers riscv
+
+cross-s390x-ibm-linux-gnu/binutils ~s390
+cross-s390x-ibm-linux-gnu/gcc ~s390
+cross-s390x-ibm-linux-gnu/glibc ~s390
+cross-s390x-ibm-linux-gnu/linux-headers ~s390

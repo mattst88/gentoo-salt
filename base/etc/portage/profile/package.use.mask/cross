@@ -1,0 +1,8 @@
+cross-*/gcc cet multilib
+cross-*/binutils cet
+cross-*/glibc cet multilib
+
+cross-mips64-unknown-linux-gnu/gcc -multilib
+cross-mips64el-unknown-linux-gnu/gcc -multilib
+cross-mips64-unknown-linux-gnu/glibc -multilib
+cross-mips64el-unknown-linux-gnu/glibc -multilib
