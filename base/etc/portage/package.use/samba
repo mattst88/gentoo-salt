@@ -1,1 +1,2 @@
 net-fs/samba -gpg client winbind
+net-libs/ngtcp2 gnutls
