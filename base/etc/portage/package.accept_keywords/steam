@@ -1,8 +1,2 @@
-=games-util/steam-client-meta-0-r20210804
-=games-util/steam-launcher-1.0.0.72
-=games-util/steam-meta-0-r20160817
+games-util/steam-launcher
 =sys-libs/libudev-compat-186-r1
-=games-util/esteam-0.20210804
-=media-libs/glew-1.6.0-r100
-=media-fonts/steamfonts-1
-=games-util/game-device-udev-rules-20201228
