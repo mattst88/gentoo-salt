@@ -1,3 +1,4 @@
 */* LLVM_TARGETS: AMDGPU BPF NVPTX SPIRV
 
-dev-lang/python -jit LLVM_SLOT: -*
+app-text/doxygen -clang LLVM_SLOT: -*
+#dev-util/perf    -bpf   LLVM_SLOT: -*
