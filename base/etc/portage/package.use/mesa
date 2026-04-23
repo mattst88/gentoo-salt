@@ -1,1 +1,3 @@
-media-libs/mesa gles1 gles2 llvm opencl -osmesa -vaapi valgrind vulkan wayland
+llvm-core/libclc spirv
+media-libs/mesa gles1 gles2 llvm -opencl -osmesa -vaapi valgrind vulkan wayland
+x11-libs/libdrm VIDEO_CARDS: amdgpu nouveau radeon vmware
