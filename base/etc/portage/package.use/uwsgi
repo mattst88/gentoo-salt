@@ -1,0 +1,6 @@
+www-servers/uwsgi -lua   LUA_SINGLE_TARGET:  -*
+www-servers/uwsgi -ruby       RUBY_TARGETS:  -*
+www-servers/uwsgi          POSTGRES_TARGETS: -*
+www-servers/uwsgi -php          PHP_TARGETS: -*
+www-servers/uwsgi python
+www-servers/uwsgi UWSGI_PLUGINS: -rrdtool
