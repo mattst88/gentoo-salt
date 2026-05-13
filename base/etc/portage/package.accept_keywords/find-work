@@ -1,0 +1,6 @@
+dev-util/find-work
+dev-util/find-work-bugzilla
+dev-util/find-work-pkgcheck
+dev-util/find-work-repology
+dev-python/click-aliases
+dev-python/repology-client
