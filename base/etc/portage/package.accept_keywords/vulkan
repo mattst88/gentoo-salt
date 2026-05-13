@@ -1,0 +1,10 @@
+=dev-debug/gfxreconstruct-1.4.341.0
+=dev-util/glslang-1.4.341.0
+=dev-util/spirv-headers-1.4.341.0
+=dev-util/spirv-tools-1.4.341.0
+=dev-util/vulkan-headers-1.4.341.0
+=dev-util/vulkan-tools-1.4.341.0
+=dev-util/vulkan-utility-libraries-1.4.341.0
+=media-libs/shaderc-2026.1
+=media-libs/vulkan-layers-1.4.341.0
+=media-libs/vulkan-loader-1.4.341.0
