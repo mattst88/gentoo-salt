@@ -12,6 +12,7 @@ app-shells/zsh
 app-shells/zsh-completions
 app-shells/zsh-syntax-highlighting
 app-text/wgetpaste
+dev-build/steve
 net-analyzer/nmap
 net-analyzer/traceroute
 net-dns/bind-tools
