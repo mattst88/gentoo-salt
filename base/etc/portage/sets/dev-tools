@@ -32,6 +32,8 @@ dev-python/yapf
 dev-util/ccache
 dev-util/ccls
 dev-util/git-fixup
+dev-util/github-cli
+dev-util/gitlab-cli
 dev-util/indent
 dev-util/pahole
 dev-util/perf
